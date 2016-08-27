@@ -2,12 +2,12 @@
 # -*- coding : utf-8 -*-
 
 print <<EOF
-    first method to creat a here document 。
+    first method to creat a here document
     one more line
 EOF
 
 print <<"EOF";                # same with the one above
-    second way to creat a here document 。
+    second way to creat a here document
     one more line
 EOF
 
